@@ -1,0 +1,46 @@
+h1{
+  font-size: 300%;
+  text-align: center;
+  color: #053c93;
+}
+
+body{
+  background-image: url("CBU_water2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+table#t01{
+  width: 100%;
+  background-color: #e8e7e3;
+  padding: 30px;
+  border-radius: 12px;
+  border: 1px solid black;
+}
+
+table#t02{
+  text-align: center;
+  width: 100%;
+  background-color: #e8e7e3;
+  padding: 30px;
+  border-radius: 12px;
+  border: 1px solid black;
+}
+
+th{
+  background-color: #053c93;
+  border: 1px solid #053c93;
+  color: white;
+  border-radius: 10px;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0 auto;
+    padding: 20 px;
+    background-color: #a7aaaf;
+}
